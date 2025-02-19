@@ -50,3 +50,7 @@
     cursor: pointer;
     box-shadow: 10px red;
 }
+#parent:hover+#box{
+    display: block;
+    counter:pointer;
+}
